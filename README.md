@@ -90,27 +90,27 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Alexandria Archive Com Authentication](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-authentication/)
-- [Alexandria Archive Com Domain Security](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-domain-security/)
-- [Alexandria Archive Com Vulnerability Disclosure](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-vulnerability-disclosure/)
+- [Alexandria Archive Authentication](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-authentication/)
+- [Alexandria Archive Domain Security](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-domain-security/)
+- [Alexandria Archive Vulnerability Disclosure](https://apis.io/security/alexandria-archive-com/alexandria-archive-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Alexandria Archive Com Scopes](https://apis.io/scopes/alexandria-archive-com/alexandria-archive-com-scopes/)
+- [Alexandria Archive Scopes](https://apis.io/scopes/alexandria-archive-com/alexandria-archive-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Alexandria Archive Com Plans Pricing](https://apis.io/plans/alexandria-archive-com/alexandria-archive-com-plans-pricing/)
+- [Alexandria Archive Plans Pricing](https://apis.io/plans/alexandria-archive-com/alexandria-archive-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Alexandria Archive Com Rate Limits](https://apis.io/rate-limits/alexandria-archive-com/alexandria-archive-com-rate-limits/)
+- [Alexandria Archive Rate Limits](https://apis.io/rate-limits/alexandria-archive-com/alexandria-archive-com-rate-limits/)
 
 ## Where to find this API
 
@@ -126,11 +126,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 32.5** — thin · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 32.4** — thin · rubric 0.27.0 · scored 2026-11-11
 
 | Facet | Score |
 |---|---|
-| Discoverability | 67.9 |
+| Discoverability | 66.7 |
 | Contract quality | 0.0 |
 | Contract governance | 65.5 |
 | Operational transparency | 10.5 |
